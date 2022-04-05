@@ -4,12 +4,15 @@ using UnityEngine;
 
 public class characterController : MonoBehaviour
 {
+    
     public float MovementSpeed = 4;
     public float JumpForce = 1;
 
     private Rigidbody2D _rigidbody;
 
 
+   
+    
     public void Start()
     {
         _rigidbody = GetComponent<Rigidbody2D>();

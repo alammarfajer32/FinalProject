@@ -7,6 +7,9 @@ TagManager:
   - lb_bird
   - lb_groundTarget
   - lb_perchTarget
+  - MyCoin
+  - testText
+  - MyScoreText
   layers:
   - Default
   - TransparentFX
